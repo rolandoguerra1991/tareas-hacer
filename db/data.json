@@ -1,0 +1,21 @@
+[
+  {
+    "id": "00af756f-fb96-4ec7-a4e9-8eee5dc9d9a8",
+    "description": "Limpiar la casa"
+  },
+  {
+    "id": "3381dbba-9ec3-4ddd-872d-989ef381422b",
+    "description": "barrer la casa",
+    "completedAt": null
+  },
+  {
+    "id": "1b8e476f-2494-442e-a670-f28242e897ab",
+    "description": "otra tarea",
+    "completedAt": null
+  },
+  { "id": "2ec5686d-392d-4f6f-af31-a9c3e874a883", "description": "Banarme" },
+  {
+    "id": "bec595cf-5c8b-4cde-bcfe-267600055e73",
+    "description": "limpiar la cocina"
+  }
+]
